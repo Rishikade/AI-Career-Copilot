@@ -4,6 +4,10 @@ AI Career Copilot is an AI-powered career assistant built using Python, Streamli
 
 The application helps job seekers analyze their resumes against job descriptions, identify skill gaps, generate interview questions, create personalized cover letters, and draft recruiter outreach messages.
 
+## Live Demo
+
+https://ai-career-copilot-rishika.streamlit.app
+
 ## Features
 
 ### 📊 ATS Score Analysis
@@ -74,9 +78,6 @@ pip install pypdf
 pip install google-generativeai
 ```
 
-## Live Demo
-
-https://ai-career-copilot-rishika.streamlit.app
 
 Run:
 
