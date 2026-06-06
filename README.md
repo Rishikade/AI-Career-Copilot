@@ -74,6 +74,10 @@ pip install pypdf
 pip install google-generativeai
 ```
 
+## Live Demo
+
+https://ai-career-copilot-rishika.streamlit.app
+
 Run:
 
 ```bash
